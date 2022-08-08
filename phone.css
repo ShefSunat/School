@@ -1,0 +1,16 @@
+@media (min-width :400px) and (max-width:900px)
+{
+*
+{
+    display: block;
+}
+.main
+{
+    width: 50px;
+    background-image: url("./images/Placeholder.png");
+}
+#girl
+{
+    z-index: 0;
+}
+}
